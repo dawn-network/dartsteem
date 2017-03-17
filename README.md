@@ -1,4 +1,4 @@
-#Steem Swagger Client for Dart
+#  Swagger Client for Dart
 
 Anyone can make one of thse for themselves, since @good-karma built a swagger API for steemd.  Of course, steemd itself should really have an inbuilt swagger API, but if others want to go on a-questing without ne, who am I to stop them? 
 
